@@ -283,7 +283,7 @@ a:active {
 }
 
 .sp-parallax-bg {
-    background: url(../images/slider/cloud.png) repeat-x scroll 0 0;
+    background: url(../images/slider/tri.png) repeat-x scroll 0 0; /*changed here*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
