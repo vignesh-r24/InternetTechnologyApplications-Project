@@ -271,7 +271,7 @@ a:active {
 }
 
 .sp-content {
-    background: url(../images/slider/back.png) no-repeat scroll 0 0;
+    background: url(../images/slider/Suzanne+Collins.png) no-repeat scroll 0 0;
     
     position: relative;
     width: 100%;
@@ -283,7 +283,7 @@ a:active {
 }
 
 .sp-parallax-bg {
-    background: url(../images/slider/tri.png) repeat-x scroll 0 0; /*changed here*/
+    background: url(../images/slider/cloud.png) repeat-x scroll 0 0; /*changed here*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -305,7 +305,7 @@ a:active {
     height: 9px;
     z-index: 1001;
     cursor: pointer;
-    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=0);
     opacity: 0;
 }
@@ -860,7 +860,7 @@ box-shadow: 5px 5px 0px #20AE61;
   color: white;
   text-align: center;
 }
-.process-paragraph {
+.exagraph {
   color: white;
   text-align: center;
 }
