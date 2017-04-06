@@ -1042,6 +1042,7 @@ box-shadow: 5px 5px 0px #20AE61;
 }
 .team-social {
   background-color: #ddd;
+
 }
 .team-name {
   margin-top: 0px;
@@ -1069,7 +1070,7 @@ box-shadow: 5px 5px 0px #20AE61;
 }
 .social-section {
   display: block;
-  width: 100%;
+  width: 55%;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -1294,7 +1295,7 @@ margin-left: 15px;
 }
 .fotter-social-wrap {
   display: block;
-  width: 60%;
+  width: 20%;
   margin-right: auto;
   margin-left: auto;
 }
